@@ -10,3 +10,5 @@
   2. [Iteration 2](/Iteration2/)
   3. [Iteration 3](/Iteration3/)
   4. [Team Evaluation](/TeamEvaluation/)
+  
+  **Please Note that Deliverable 1 is apart of Iteration 1**
