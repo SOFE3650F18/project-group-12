@@ -17,4 +17,9 @@ We were highly ethical about how we completed the project.
 **Team's Focus:** 5.0  
 We were very focused and had very little distractions. We completed what we needed to in the aloted meeting times.  
   
-Ratings:  4.5 to 5.0 = Outstanding  3.5 to 4.5 = Strong  2.5 to 3.5 = Moderate  1.5 to 2.5 = Bare Minimum  1.0 to 1.5 = Unsatisfactory
+Ratings:  
+4.5 to 5.0 = Outstanding  
+3.5 to 4.5 = Strong  
+2.5 to 3.5 = Moderate  
+1.5 to 2.5 = Bare Minimum  
+1.0 to 1.5 = Unsatisfactory 
